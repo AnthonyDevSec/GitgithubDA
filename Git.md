@@ -8,3 +8,5 @@ git status (vê o status de o que está em espera para ser adicionado, o que já
 enviado)
 git remote add origin "link do repositório no github"
 git push origin main (enviar para o github as atualizações que você fez)
+git reflog (O historico de de mudanças no código)
+git reset --hard 0000 (No espaço dos zeros você coloca o código a esquerda que identifica as suas mudanças no código para voltar a uma versão anterior.)

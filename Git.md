@@ -6,5 +6,5 @@ git add . (Adiciona tudo que foi modificado para ser colocado no git local)
 git commit -m "qualquer coisa" (para salvar localmente a sua versão do código(O nome colocado entre aspas vai como descrição para o github quando enviado))
 git status (vê o status de o que está em espera para ser adicionado, o que já pode ser comitado e
 enviado)
-git push origin main (enviar para o github as atualizações que você fez)
 git remote add origin "link do repositório no github"
+git push origin main (enviar para o github as atualizações que você fez)
